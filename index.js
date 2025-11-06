@@ -54,6 +54,12 @@ console.log(add(5));
 
 
 
+
+
+// Functions with parameters
+
+
+
 //Default Parameters
 
 function mul(a,b=1){
