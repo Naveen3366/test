@@ -95,3 +95,47 @@ console.log(displayUser(user));
 executeTask("Clean the Room",()=>{
   console.log("Task Completed!");  
 });
+
+
+
+//Array
+
+let a = []; //Empty array
+console.log(a); 
+
+
+// creating a array and Initializing with Values
+
+let b = [10,20,30];
+console.log(b);
+
+
+
+
+let a1 = new Array (10,20,30,);
+console.log(a1);
+
+
+
+
+let c = ["Html","Css","Js"];
+
+console.log(c[0]);
+console.log(c[2]);
+
+
+
+let d = ["Html","Css","js"]
+let fst = d[0];
+
+console.log("First Item:",fst);
+
+
+
+let e = ["Html","Css","Js"];
+console.log(e);
+
+e[2] = "Bootstrap";
+console.log(e);
+
+
