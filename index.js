@@ -353,10 +353,12 @@ console.log("FirstItem:",list); */
 
 //Array values
 
+
 const a = ["Apple","Grapes","Banana","water melon","jackfruit","Orange"];
 const res = a.values();
 
-for(const value of res){
+for(const value of res)
+   {
  console.log(value);
 }
 
