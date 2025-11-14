@@ -90,3 +90,8 @@
 let obj = {name:"Suseendran"};
 console.log(typeof obj === "object" && obj !== null);
 
+
+function name(){
+
+}
+
